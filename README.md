@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ryan Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanChen979&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/apiusername=RyanChen979&theme=blueberry&show_icons=true&hide_border=true&count_private=true)(https://github-readme-stats.vercel.app/api?username=RyanChen979&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-[kjb](https://github-readme-streak-stats.herokuapp.com/?user=RyanChen979&theme=blueberry&hide_border=true)
-[kjnk](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanChen979&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+![RyanChen979's Stats](https://github-readme-stats.vercel.app/api?username=RyanChen979&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![RyanChen979's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RyanChen979&theme=blueberry&hide_border=true)
+![RyanChen979's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanChen979&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
